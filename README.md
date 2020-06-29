@@ -1,4 +1,6 @@
-# Firefighting-Robot
+# Firefighting-Robot Using arduino uno.
+
+The simulation used is Simulide (open source simulation).
 
 • We have a fire fighting robot.
 • It keeps moving until power off switch is used to turn it off. It uses three “Ultrasonic Ranging Module HC -
